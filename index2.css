@@ -1,0 +1,223 @@
+.header{
+    background-image: url(/img/banner-bg.jpg);
+}
+/* .vd{
+    color: blue;
+    font-weight: bolder;
+   text-align: justify;
+} */
+.navbar{
+    list-style: none;
+   text-align: end;
+   text-decoration: none;
+
+}
+.navbar a{
+    text-decoration:none;
+    font-weight: bolder;
+    color: grey;
+}
+.droppy{
+    top: 100px;
+    height: 80px;
+    background-color: white;
+    margin-left:150px ;
+    text-align: center;
+}
+.banner{
+    margin-top: 100px;
+    text-align: center;
+    color: white;
+    padding-bottom: 100px;
+}
+.banner h1{
+  font-size: 500%;
+}
+.banner2{
+background-color:aqua;
+text-align: center;
+color: white;
+padding-top: 50px;
+padding-bottom: 50px;
+}
+.some{
+    text-align: center;
+    color: white;
+    background-image: url(/img/services-bg.jpg);
+    background-repeat: no-repeat;
+}
+.orange{
+    padding-top: 130px;
+    padding-bottom: 130PX;
+    background-color: orangered;
+    opacity: 0.5;
+}
+.black{
+    padding-top: 130px;
+    padding-bottom: 130PX;
+    background-color: black;
+    opacity:0.5;
+}
+.blue{
+    padding-top: 130px;
+    padding-bottom: 130PX;
+    background-color: blue;
+    opacity: 0.5;
+}
+.bye{
+    text-align: center;
+}
+.top{
+    padding: 100px;
+    text-align: center;
+}
+.FOR{
+    display: grid;
+    grid-template-columns: repeat(5 ,1fr);
+    text-align: center;
+}
+.FOR div{
+    
+    height: 150px;
+    margin: 10px;
+   background-color: lightgray;
+    
+}
+.pin{
+    margin-top: 20px;
+    margin-left:85px ;
+}
+.bo{
+    text-align: center;
+    background-color:midnightblue;  
+    color: white;
+    margin-top: 100px;
+    padding-bottom: 100px;
+}
+.cap{
+    padding: 30px;
+    text-align: center;
+}
+.cop div img{
+padding: 10px;
+}
+.blog{
+    text-align: center;
+    background-color: lightgray;
+}
+.BUG{
+    background-color: white;
+    box-shadow: black 100px; 
+    box-shadow: 0.5px 2px black ;
+}
+.big{
+    background-color: white;
+    text-align: center;
+    position:relative;
+    bottom: 50px;
+    margin-left: 50px;
+    z-index: 7;
+}
+.BOT{
+    background-color: white;
+}
+.boom{
+ text-align: center;
+}
+.boom p{
+    padding-left: 350px;
+    padding-right: 350px;
+}
+.chick{
+    background-color:whitesmoke;
+}
+.bb div{
+margin-bottom: 30px;
+border: 0.01% black solid;
+box-shadow: 1px 1px black;
+background-color: white;
+}
+.bb div:hover{
+    background-color: skyblue;
+}
+
+.white div{
+    background-color: white;
+    text-align: center;
+    bottom: 500px;
+}
+.gh input{
+    margin-right: 30px;
+    background-color: whitesmoke;
+    border: 0px;
+    width: 200px;
+}
+.gh textarea{
+    background-color: whitesmoke;
+    border: 0px;
+    
+}
+.gh button{
+    margin-top: 30px;
+    width: 200px;
+    border-radius: 0px;
+}
+.footer{
+    background-color: #363e50;
+    color: white;
+    text-align: center;
+    /* height: 100px; */
+}
+.lit{
+    padding-top: 30px;
+}
+.gf{
+    list-style: none;
+   
+    text-decoration: none;
+    font-weight: bolder;
+    color: white;
+}
+.gf a{
+    text-decoration: none;
+}
+.gf li{
+    display: inline;
+    padding: 10px;
+}
+.gf a:hover{
+color: white;
+}
+.clock{
+    height: 90px;
+    border: black 1px solid;
+  text-align: center;
+  width: 300px;
+  background-color: lightblue;
+  
+}
+.clock a{
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+}
+.hy{
+    font-size: 30px;
+}
+.icons{
+    font-size: 50px;
+    text-align: center;
+}
+.box{
+    text-align: center;
+}
+.boot{
+    padding-left: 150px;
+}
+.boot div{
+    text-align: center;
+    background-color: white;
+   bottom: 100%;
+    width: 570px;
+    z-index: 9;
+}
